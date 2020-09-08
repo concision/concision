@@ -22,7 +22,7 @@
 ## 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗
 
 <p>
-    <img width="100px" align="right" src="https://github.com/concision/concision/blob/master/assets/csus.svg">
+    <img width="100px" align="right" src="https://raw.githubusercontent.com/concision/concision/profile/assets/csus.svg">
 </p>
 
 <p>
