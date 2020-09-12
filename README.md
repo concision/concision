@@ -16,6 +16,10 @@
     <a href="https://leetcode.com/_concision/">
         <img alt="LeetCode: _concision" src="https://img.shields.io/badge/LeetCode-__concision-orange?style=flat-square&logo=leetcode"/>
     </a>
+    <br>
+    <a href="https://projecteuler.net">
+        <img alt="Project Euler: Concision" src="https://projecteuler.net/profile/Concision.png"/>
+    </a>
 </p>
 
 
