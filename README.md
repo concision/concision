@@ -8,7 +8,7 @@
         <img alt="Docker: concisions" src="https://img.shields.io/badge/Docker-concisions-blue?style=flat-square&logo=docker"/>
     </a>
     <a href="https://www.npmjs.com/~concisions">
-        <img alt="NPM: concisions" src="https://img.shields.io/badge/NPM-concision-red?style=flat-square&logo=npm"/>
+        <img alt="NPM: concisions" src="https://img.shields.io/badge/NPM-concisions-red?style=flat-square&logo=npm"/>
     </a>
     <a href="https://www.hackerrank.com/Concision">
         <img alt="HackerRank: concision" src="https://img.shields.io/badge/HackerRank-concision-green?style=flat-square&logo=hackerrank"/>
