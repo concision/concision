@@ -4,6 +4,9 @@
     <a href="https://github.com/concision">
         <img alt="Github: concision" src="https://img.shields.io/badge/GitHub-concision-lightgray?style=flat-square&logo=github"/>
     </a>
+    <a href="https://stackoverflow.com/users/14352161/concision">
+        <img alt="StackOverflow: concision" src="https://img.shields.io/badge/StackOverflow-concision-FE7A16?style=flat-square&logo=stackoverflow"/>
+    </a>
     <a href="https://hub.docker.com/u/concisions">
         <img alt="Docker: concisions" src="https://img.shields.io/badge/Docker-concisions-blue?style=flat-square&logo=docker"/>
     </a>
