@@ -42,5 +42,5 @@
 
 ## 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜
 <p align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=concision&hide_title=true&show_icons=true&count_private=true&line_height=21&hide_border=true"/><img width="361px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=concision&hide_title=true&layout=compact&hide=jupyter%20notebook"/>
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=concision&hide_title=true&show_icons=true&count_private=true&line_height=21"/><img width="361px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=concision&hide_title=true&layout=compact&hide=jupyter%20notebook"/>
 </p>
